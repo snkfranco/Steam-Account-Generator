@@ -1,4 +1,4 @@
-# Steam Account Automation (For Educational Purposes Only)
+# Steam Account Generator (For Educational Purposes Only)
 ### If you found this project helpful or interesting, please consider giving it a ⭐ to show your support! Your star is a simple way to express appreciation and encourage the ongoing development of this project. Thank you for your support! 🚀
 ####         Made by: SNK 
 # 
